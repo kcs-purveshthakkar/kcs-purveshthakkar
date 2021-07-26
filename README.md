@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm Purvesh Thakkar, Full Stack Intern
+## Hi there 👋 Welcome to my GitHub! I'm Purvesh Thakkar !!
 
 
 ### 👨🏻‍💻 &nbsp;About Me
