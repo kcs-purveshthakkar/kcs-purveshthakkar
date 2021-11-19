@@ -7,7 +7,7 @@
 
 💡 &nbsp; Also worked as React.js Intern at Prutha TechnoMarket Pvt. Ltd.
 
-💡 &nbsp; Completed Bachelor's Degree in Computer Engineering from LDRP Institute of Technology & Research.
+💡 &nbsp; Completed Bachelor's Degree in Computer Engineering from LDRP Institute of Technology & Research, Gandhinagar.
 
 
 <!---
