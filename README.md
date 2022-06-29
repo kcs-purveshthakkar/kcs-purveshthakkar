@@ -3,9 +3,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width='300' align="right"/>
-💡 &nbsp; Currently working as a Associate Software Engineer at KCS IT Global Pvt. Ltd.
+💡 &nbsp; Currently working as a Software Developer L1 at KCS IT Global Pvt. Ltd.
 
-💡 &nbsp; Also worked as React.js Intern at Prutha TechnoMarket Pvt. Ltd.
 
 💡 &nbsp; Completed Bachelor's Degree in Computer Engineering from LDRP Institute of Technology & Research, Gandhinagar.
 
